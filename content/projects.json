@@ -1,0 +1,514 @@
+[
+    {
+        "client": "PragICTS",
+        "categories": [
+            {
+                "title": "Cloud Migration"
+            }
+        ],
+        "day": "28",
+        "month": "Jul",
+        "year": "2021",
+        "text": "PragICTS migrates all its online presence/assets and cloud infrastructure to AWS.",
+        "slug": "pragicts-aws-migration-28-07-2021",
+        "main_image": "./images/projects/pragicts-aws-migration-main.jpg",
+        "thumbnail_image1":  "./images/projects/pragicts-aws-migration-main.jpg",
+        "link": "https://aws.amazon.com/"
+    },
+    {
+        "client": "AGC",
+        "categories": [
+            {
+                "title": "Cloud Services Implementation and Management"
+            }
+        ],
+        "day": "15",
+        "month": "Jul",
+        "year": "2021",
+        "text": "PragICTS implements Cloud EFSS (Enterprise File Synchronization and Sharing) deploying the Egnyte Platform for AGC. Egnyte is the global market leader for EFSS. ",
+        "slug": "agc-egnyte-implementation-15-07-2021",
+        "main_image": "./images/projects/agc-enyte-implementation-1.jpg",
+        "thumbnail_image1":  "./images/projects/agc-enyte-implementation-1.jpg",
+        "link": "https://www.egnyte.com/"
+
+    },
+    {
+        "client": "Biophilia",
+        "categories": [
+            {
+                "title": "Web Application Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "31",
+        "month": "Mar",
+        "year": "2021",
+        "text": "PragICTS rolls out their plant knowledgebase management system (Plant) to Biophilia (Pvt) Ltd.",
+        "slug": "biophilia-plant-database-implementation-31-03-2021",
+        "main_image": "./images/projects/biophilia-plant-db-implementation-main.jpg",
+        "thumbnail_image1":  "./images/projects/biophilia-plant-db-implementation-main.jpg",
+        "link": "https://biophilia.lk/knowledge-base"
+
+    },
+    {
+        "client": "Authenticities Sri Lanka",
+        "categories": [
+            {
+                "title": "Cloud Platform Migration"
+            }
+        ],
+        "day": "19",
+        "month": "Mar",
+        "year": "2021",
+        "text": "Authenticities Sri Lanka migrates all their online assets(website, online invoicing and playment platform) from GoDaddy to AWS through PragICTS.",
+        "slug": "authenticities-sri-lanka-cloud-migration-19-03-2021",
+        "main_image": "./images/projects/asl-aws-migration-main.jpg",
+        "thumbnail_image1":  "./images/projects/asl-aws-migration-main.jpg",
+        "link": "https://authenticitiessrilanka.com/"
+
+    },
+    {
+        "client": "ToolsHub",
+        "categories": [
+            {
+                "title": "eCommerce Platform Development"
+            },
+            {
+                "title": "Application Management"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "Cloud Platform Management"
+            },
+            {
+                "title": "Branding"
+            },
+            {
+                "title": "SMO"
+            },
+            {
+                "title": "SMM"
+            },
+            {
+                "title": "SEO"
+            },
+            {
+                "title": "SEM"
+            }
+        ],
+        "day": "01",
+        "month": "Mar",
+        "year": "2021",
+        "text": "Unicorn Metallics commisions Sri Lanka's premier eCommerce platform for tools engineered by PragICTS.",
+        "slug": "toolshub-ecommerce-01-03-2021",
+        "main_image": "./images/projects/toolshub-ecommerce-main.jpg",
+        "thumbnail_image1":  "./images/projects/toolshub-ecommerce-main.jpg",
+        "link": "https://toolshub.lk/"
+
+    },
+    {
+        "client": "Biophilia",
+        "categories": [
+            {
+                "title": "eCommerce Platform Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "Cloud Platform Management"
+            }
+        ],
+        "day": "27",
+        "month": "Feb",
+        "year": "2021",
+        "text": "Biophilia commissions their new online presence strategy with the launch of its new website engineered by PragICTS.",
+        "slug": "biophilia-ecommerce-01-03-2021",
+        "main_image": "./images/projects/biophilia-ecommerce-main.jpg",
+        "thumbnail_image1":  "./images/projects/biophilia-ecommerce-main.jpg",
+        "link": "https://shop.biophilia.lk/"
+
+    },
+    {
+        "client": "Biophilia",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "02",
+        "month": "Nov",
+        "year": "2020",
+        "text": "Biophilia commissions their new online presence strategy with the launch of its new website engineered by PragICTS.",
+        "slug": "biophilia-website-02-11-2020",
+        "main_image": "./images/projects/biophilia-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/biophilia-website-main.jpg",
+        "link": "https://biophilia.lk/"
+
+    },
+    {
+        "client": "Senehasa Foundation",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "( Total Branding + Senehasa Video) through Subsidiary IEdgeCa"
+            }
+        ],
+        "day": "01",
+        "month": "Oct",
+        "year": "2020",
+        "text": "Senehasa Foundation revamps its total branding including logo, online presence, and foundation video through PragICTS and its subsidiary IEdgeCa.",
+        "slug": "senehasa-website-02-11-2020",
+        "main_image": "./images/projects/senehasa-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/senehasa-website-main.jpg",
+        "link": "https://senehasa.care/"
+
+    },
+    {
+        "client": "Lush Skin Care",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "28",
+        "month": "Aug",
+        "year": "2020",
+        "text": "Lush Skin Care Clinic revamp their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "lush-sc-new-website-28-08-2020",
+        "main_image": "./images/projects/lush-new-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/lush-new-website-main.jpg",
+        "link": "http://lushsc.com/"
+
+    },
+    {
+        "client": "Rigor Consulting",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "24",
+        "month": "Jul",
+        "year": "2020",
+        "text": "Rigor Consulting commissions their new online presence strategy with the launch of its new website designed and engineered by PragICTS.",
+        "slug": "rigor-consulting-website-24-07-2020",
+        "main_image": "./images/projects/rigor-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/rigor-website-main.jpg",
+        "link": "http://rigor.consulting/"
+
+    },
+    {
+        "client": "Praguna Global",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "( Total Branding + Digital Marketing ) through Subsidiary IEdgeCa"
+            }
+        ],
+        "day": "24",
+        "month": "Jul",
+        "year": "2020",
+        "text": "Praguna Global commissions their new online presence strategy with the launch of its new website designed and engineered by PragICTS.",
+        "slug": "praguna-website-24-07-2020",
+        "main_image": "./images/projects/praguna-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/praguna-website-main.jpg",
+        "link": "http://praguna-global.com/"
+
+    },
+    {
+        "client": "CPP Glass",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "( Total Branding + Digital Marketing ) through Subsidiary IEdgeCa"
+            }
+        ],
+        "day": "20",
+        "month": "Dec",
+        "year": "2019",
+        "text": "CPP commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS. ",
+        "slug": "cppglass-website-20-12-2019",
+        "main_image": "./images/projects/cppglass-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/cppglass-website-main.jpg",
+        "link": "http://cppglass.com/"
+
+    },
+    {
+        "client": "Authenticities Sri Lanka",
+        "categories": [
+            {
+                "title": "Web Application Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "21",
+        "month": "Nov",
+        "year": "2019",
+        "text": "Pay platform security is enabled through a multi-layered decoupled and abstracted security architecture with endpoint encryption through SHA - 2 and 2048-bit SSL.",
+        "slug": "asl-pay-platform-21-11-2019",
+        "main_image": "./images/projects/asl-pay-platform-main.jpg",
+        "thumbnail_image1":  "./images/projects/asl-pay-platform-main.jpg",
+        "link": "https://pay.pragicts.com/"
+
+    },
+    {
+        "client": "Unicorn Metalics",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "( Total Branding + Digital Marketing ) through Subsidiary IEdgeCa"
+            }
+        ],
+        "day": "20",
+        "month": "Jul",
+        "year": "2019",
+        "text": "Unicorn Metalics commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "unicornmetalics-website-20-07-2019",
+        "main_image": "./images/projects/unicornmetalics-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/unicornmetalics-website-main.jpg",
+        "link": "http://unicornmetalics.com/"
+
+    },
+    {
+        "client": "IEdgeCa",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "Total Branding"
+            }
+        ],
+        "day": "20",
+        "month": "Jun",
+        "year": "2019",
+        "text": "IEdgeCa commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "iedgeca-website-20-06-2019",
+        "main_image": "./images/projects/iedgeca-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/iedgeca-website-main.jpg",
+        "link": "http://iedgeca.com/"
+
+    },
+    {
+        "client": "Attorney Generals Department of Sri Lanka",
+        "categories": [
+            {
+                "title": "Web Application Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "01",
+        "month": "Mar",
+        "year": "2019",
+        "text": "HCM Platform (Time and Attendance Module, Cognizant by PragICTS). This is tailored Human Capital Management System for the specific requirement scope of the the Attorney General's Department Sri lanka. ",
+        "slug": "cognizant-agd-01-03-2019",
+        "main_image": "./images/projects/cognizant-agd-main.jpg",
+        "thumbnail_image1":  "./images/projects/cognizant-agd-main.jpg",
+        "link": "https://cognizant.pragicts.com/"
+
+    },
+    {
+        "client": "Three Gables Boutique Villa",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "14",
+        "month": "Feb",
+        "year": "2019",
+        "text": "Three Gables Boutique Villa commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS. ",
+        "slug": "threegablesboutiquevilla-website-14-02-2019",
+        "main_image": "./images/projects/threegablesboutiquevilla-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/threegablesboutiquevilla-website-main.jpg",
+        "link": "http://threegablesboutiquevilla.com/"
+
+    },
+    {
+        "client": "Dream Sleep",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "03",
+        "month": "Jan",
+        "year": "2019",
+        "text": "Dreams Sleep commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "dreamsleep-website-03-01-2019",
+        "main_image": "./images/projects/dreamsleep-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/dreamsleep-website-main.jpg",
+        "link": "http://dreamsleeplk.com/"
+
+    },
+    {
+        "client": "Technomedics",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "07",
+        "month": "Dec",
+        "year": "2018",
+        "text": "Technomedics commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "technomedics-website-07-12-2018",
+        "main_image": "./images/projects/technomedics-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/technomedics-website-main.jpg",
+        "link": "http://technomediclk.com/"
+
+    },
+    {
+        "client": "Windy Hills Bungalow",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            },
+            {
+                "title": "Photography"
+            }
+        ],
+        "day": "03",
+        "month": "Dec",
+        "year": "2018",
+        "text": "Windy Hills Bungalow commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "windyhills-website-03-12-2018",
+        "main_image": "./images/projects/windyhills-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/windyhills-website-main.jpg",
+        "link": "http://windyhillsbungalow.com/"
+
+    },
+    {
+        "client": "Ayana Villas and Resorts",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "22",
+        "month": "Nov",
+        "year": "2018",
+        "text": "Ayana Sea commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "ayanavillas-website-22-11-2018",
+        "main_image": "./images/projects/ayanavillas-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/ayanavillas-website-main.jpg",
+        "link": "http://ayanavillasandresorts.com/"
+
+    },
+    {
+        "client": "NextGen Healthcare",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "08",
+        "month": "Nov",
+        "year": "2018",
+        "text": "Nextgen commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "nextgen-website-08-11-2018",
+        "main_image": "./images/projects/nextgen-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/nextgen-website-main.jpg",
+        "link": "http://www.nextgenhclk.com/"
+
+    },
+    {
+        "client": "Innotech Healthcare",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "08",
+        "month": "Nov",
+        "year": "2018",
+        "text": "Innotech commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "innotech-website-08-11-2018",
+        "main_image": "./images/projects/innotech-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/innotech-website-main.jpg",
+        "link": "http://innotechlk.com/"
+
+    },
+    {
+        "client": "MediTechnology",
+        "categories": [
+            {
+                "title": "Website Development"
+            },
+            {
+                "title": "Application Support"
+            }
+        ],
+        "day": "10",
+        "month": "Mar",
+        "year": "2018",
+        "text": "MediTechnology commissions their new online presence strategy with the launch of their new website designed and engineered by PragICTS.",
+        "slug": "meditechnology-website-10-03-2018",
+        "main_image": "./images/projects/meditechnology-website-main.jpg",
+        "thumbnail_image1":  "./images/projects/meditechnology-website-main.jpg",
+        "link": "http://meditechnologylk.com/"
+
+    }
+]
